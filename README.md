@@ -13,4 +13,5 @@ Execution:
     Example: java SemiMagic 3
 
 - To run the internal tester and see the results and solutions for many different squares then use the "-t" flag: 
-    Example: java SemiMagic -t
+    
+     Example: java SemiMagic -t
